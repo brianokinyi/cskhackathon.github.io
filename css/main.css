@@ -617,6 +617,7 @@ h2 {
   list-style: none;
   width: 33.33%;
   margin-bottom: 75px;
+  padding-left: 20px;
 }
 
 #sponsor .item ul li:last-child {
