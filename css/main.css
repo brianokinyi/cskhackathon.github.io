@@ -257,7 +257,6 @@ h2 {
 
 #explore {
   background-color: #C34C39;
-  /*background-image: url("../images/event-bg.jpg");*/
   background-position: center bottom;
   background-size: contain;
   background-repeat:no-repeat;
@@ -394,7 +393,6 @@ h2 {
 **************************/
 #event {
   background-color: #33888F;
-  /*background-image: url("../images/performar-bg.jpg");*/
   background-position: 50% 0;
   background-size: contain;
   position: relative;
@@ -480,7 +478,6 @@ h2 {
 
 .about-content {
   width: 50%;
-  /*background-image: url("../images/about-bg.jpg");*/
   background-position: left bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -584,7 +581,6 @@ h2 {
 
 #sponsor {
   background-color: #1881a2;
-  /*background-image: url("../images/sponsor-bg.jpg");*/
   background-position:50% 0;
   background-size: cover;
   background-repeat:no-repeat;
@@ -659,7 +655,6 @@ h2 {
 
 .contact-section {
   background-color: #E0B23B;
-  /*background-image: url("../images/contact-bg.jpg");*/
   background-position:60% 0;
   background-size:contain;
   background-repeat:no-repeat;  
@@ -741,7 +736,6 @@ h2 {
 
 #footer {
   background-color: #212121;
-  /*background-image: url("../images/footer-bg.jpg");*/
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
